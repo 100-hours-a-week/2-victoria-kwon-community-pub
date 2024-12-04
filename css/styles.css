@@ -216,7 +216,7 @@ nav.dropdown {
 
 main {
   width: 100%;
-  min-height: calc(100% - 70px - 150px);
+  min-height: calc(100vh - 70px - 150px);
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
