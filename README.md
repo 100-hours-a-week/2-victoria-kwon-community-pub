@@ -1,10 +1,7 @@
 # Playground
 **유저들 간 자유롭게 소통할 수 있는 공간을 위한 퍼블리싱 페이지입니다.**
 
-<span style="color:skyblue;font-weight:bold">
-    KakaoTech Bootcamp Cloud Native Jeju 2nd
-</span><br/>
-
+**KakaoTech Bootcamp Cloud Native Jeju 2nd**   
 **개발 기간: 2024.12 ~ 2024.12**
 
 ## 👨‍🔧 Stacks
