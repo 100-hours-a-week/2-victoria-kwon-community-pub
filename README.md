@@ -1,5 +1,5 @@
 # Playground
-**유저들 간 자유롭게 소통할 수 있는 공간을 위한 퍼블리싱 페이지입니다.**
+**자유로운 소통을 위한 공간 PLAYGROUND입니다.**
 
 **KakaoTech Bootcamp Cloud Native Jeju 2nd**   
 **개발 기간: 2024.12 ~ 2024.12**
@@ -14,7 +14,6 @@
 ### Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
 
 
 ## 📺 Preview
