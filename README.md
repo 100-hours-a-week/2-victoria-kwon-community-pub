@@ -1,4 +1,4 @@
-# Playground
+# PLAYGROUND
 **자유로운 소통을 위한 공간 PLAYGROUND입니다.**
 
 **KakaoTech Bootcamp Cloud Native Jeju 2nd**   
